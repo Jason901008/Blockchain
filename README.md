@@ -5,8 +5,9 @@
 https://mumbai.polygonscan.com/address/0xcc4769A4F0367d884177b041A7cd4E3bEF5Afa21
 
 以下為 Remix IDE 智能合約的程式說明
-pragma solidity 0.5.17                  //使用Solidity編譯器版本為0.5.17
-contract RewardsCalculator              //宣告合約名稱為「RewardsCalculator」  
+pragma solidity 0.5.17                  //使用Solidity編譯器版本為0.5.17 
+/n
+contract RewardsCalculator              //宣告合約名稱為「RewardsCalculator」  /n
 // 分別宣告兩行類別為'address'及'uint'的public變數
     address public Server               //Server用於儲存伺服器位址
     address public Costomer             //Costomer用於儲存客戶位址
