@@ -3,7 +3,7 @@
 以下網址為執行UI介面時，所進行的交易內容<br>
 https://mumbai.polygonscan.com/address/0xcc4769A4F0367d884177b041A7cd4E3bEF5Afa21
 
-以下為 Remix IDE 智能合約的程式說明
+以下為 Remix IDE 智能合約的程式說明<br>
 pragma solidity 0.5.17                  //使用Solidity編譯器版本為0.5.17 <br>
 contract RewardsCalculator              //宣告合約名稱為「RewardsCalculator」<br>
 // 分別宣告兩行類別為'address'及'uint'的public變數<br>
