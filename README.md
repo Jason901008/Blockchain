@@ -1,7 +1,6 @@
 # Blockchain
-區塊鏈技術期末專案<br>
-以下網址為執行UI介面時，所進行的交易內容<br>
-https://mumbai.polygonscan.com/address/0xcc4769A4F0367d884177b041A7cd4E3bEF5Afa21
+### 交易內容: [UI介面的交易紀錄](https://mumbai.polygonscan.com/address/0xcc4769A4F0367d884177b041A7cd4E3bEF5Afa21)
+## 區塊鏈技術期末專案
 
 以下為小部分UI介面的Python程式說明<br>
 def send_transaction_to_contract        //交易的函式 <br>
