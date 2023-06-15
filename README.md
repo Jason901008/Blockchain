@@ -1,6 +1,6 @@
 # Blockchain
 區塊鏈技術期末專案<br>
-以下網址為執行UI介面時，所進行的交易內容
+以下網址為執行UI介面時，所進行的交易內容<br>
 https://mumbai.polygonscan.com/address/0xcc4769A4F0367d884177b041A7cd4E3bEF5Afa21
 
 以下為 Remix IDE 智能合約的程式說明
