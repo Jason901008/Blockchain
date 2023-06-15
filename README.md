@@ -5,7 +5,7 @@ https://mumbai.polygonscan.com/address/0xcc4769A4F0367d884177b041A7cd4E3bEF5Afa2
 
 以下為小部分UI介面的Python程式說明<br>
 def send_transaction_to_contract        //交易的函式 <br>
-cost = int(ENTRY1.get())                //取得tkinter的輸入
+cost = int(ENTRY1.get())                //取得tkinter的輸入 <br>
 rpc_url = "https://rpc-mumbai.maticvigil.com"                                       //連接Mumbai testnet  <br>
 signed_transaction = web3.eth.account.sign_transaction(transaction, private_key)    //私鑰做簽名  <br>
 transaction_hash = web3.eth.send_raw_transaction(signed_transaction.rawTransaction) //簽名後送給交易  <br>
